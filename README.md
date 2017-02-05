@@ -9,4 +9,6 @@ AIMushrooms would be a great help for mushroom lovers. It is a program which hel
 
 AIAnimal is somewhat similar to AIMushrooms. It allows you to guess animals and then guesses the animal by asking questions about its traits. Here too, the data was stored in my database which was used to run this. The dataset was downloaded from - https://archive.ics.uci.edu/ml/datasets/Zoo
 
+IrisClassifier is a simple program that demonstrates how the famous iris flower dataset can be classifies using Multiclass Logistic Regression. It uses the Sci-Kit Learn library. The accuracy achieved by the "newton-cg" solver was as high as 97.33%
+
 Simple stuff. Just getting started. Loving it. :)
